@@ -2,7 +2,6 @@
 #+AUTHOR: Manav Sethi
 #+DATE: March 6 , 2022
 
-* THE FOSS CODE OF CONDUCT
 + VERSION: 1.0
 + DATE: March 6 , 2022
 + AUTHOR: Manav Sethi
